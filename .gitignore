@@ -1,0 +1,12 @@
+node_modules
+.next
+.git
+.env
+.env.local
+.vercel
+run_local.bat
+RUN_LOCAL.bat
+DEPLOY.bat
+DEPLOY.md
+README.md
+PUSH_TO_GITHUB.bat

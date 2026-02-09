@@ -1,0 +1,159 @@
+[
+    {
+        "slug": "neural-vision-platform",
+        "title": "Neural Vision Platform",
+        "year": "2024",
+        "category": "Computer Vision",
+        "summary": "AI-powered visual recognition system for manufacturing quality control",
+        "heroImage": "/images/projects/neural-vision.jpg",
+        "galleryImages": [
+            "/images/projects/neural-vision-1.jpg",
+            "/images/projects/neural-vision-2.jpg",
+            "/images/projects/neural-vision-3.jpg"
+        ],
+        "challenge": "A leading automotive manufacturer needed to reduce quality control costs while improving defect detection rates. Their manual inspection process was slow, inconsistent, and missed subtle defects.",
+        "solution": "We developed a custom computer vision system using deep learning models trained on millions of product images. The system integrates with existing production lines and provides real-time defect detection with 99.7% accuracy.",
+        "outcomes": [
+            "99.7% defect detection accuracy",
+            "60% reduction in inspection time",
+            "$2.4M annual cost savings",
+            "Zero critical defects shipped to customers"
+        ],
+        "tags": [
+            "Computer Vision",
+            "Deep Learning",
+            "Manufacturing",
+            "Quality Control"
+        ]
+    },
+    {
+        "slug": "conversational-ai-assistant",
+        "title": "Conversational AI Assistant",
+        "year": "2024",
+        "category": "Natural Language Processing",
+        "summary": "Enterprise-grade AI chatbot handling 50K+ daily customer interactions",
+        "heroImage": "/images/projects/chat-ai.jpg",
+        "galleryImages": [
+            "/images/projects/chat-ai-1.jpg",
+            "/images/projects/chat-ai-2.jpg"
+        ],
+        "challenge": "A major financial services company struggled with customer support scalability. Wait times exceeded 30 minutes, and customer satisfaction scores were declining.",
+        "solution": "We built a conversational AI platform using advanced NLP models capable of understanding complex financial queries, executing transactions, and seamlessly escalating to human agents when needed.",
+        "outcomes": [
+            "85% of inquiries resolved without human intervention",
+            "Average response time under 3 seconds",
+            "42% improvement in customer satisfaction",
+            "Support team can now focus on complex cases"
+        ],
+        "tags": [
+            "NLP",
+            "Chatbot",
+            "Financial Services",
+            "Customer Support"
+        ]
+    },
+    {
+        "slug": "predictive-analytics-engine",
+        "title": "Predictive Analytics Engine",
+        "year": "2023",
+        "category": "Machine Learning",
+        "summary": "Real-time demand forecasting system for retail supply chain",
+        "heroImage": "/images/projects/analytics.jpg",
+        "galleryImages": [
+            "/images/projects/analytics-1.jpg",
+            "/images/projects/analytics-2.jpg"
+        ],
+        "challenge": "A retail chain with 500+ locations faced inventory management challenges, resulting in stockouts and overstock situations costing millions annually.",
+        "solution": "We developed a predictive analytics platform that analyzes sales data, weather patterns, local events, and economic indicators to forecast demand at each location with unprecedented accuracy.",
+        "outcomes": [
+            "34% reduction in stockouts",
+            "28% decrease in overstock inventory",
+            "$8.5M annual savings",
+            "ROI achieved within 6 months"
+        ],
+        "tags": [
+            "Predictive Analytics",
+            "Retail",
+            "Supply Chain",
+            "Forecasting"
+        ]
+    },
+    {
+        "slug": "voice-synthesis-platform",
+        "title": "Voice Synthesis Platform",
+        "year": "2023",
+        "category": "Audio AI",
+        "summary": "Custom voice cloning and text-to-speech for media production",
+        "heroImage": "/images/projects/voice-ai.jpg",
+        "galleryImages": [
+            "/images/projects/voice-ai-1.jpg",
+            "/images/projects/voice-ai-2.jpg"
+        ],
+        "challenge": "A global media company needed to localize content into 20+ languages while maintaining consistent voice identity for their brand ambassadors.",
+        "solution": "We created a voice synthesis platform capable of cloning voices with just 30 minutes of sample audio, producing natural-sounding speech in any target language while preserving the original speaker's unique characteristics.",
+        "outcomes": [
+            "Content localized to 24 languages",
+            "90% reduction in voice recording costs",
+            "2-day turnaround vs. 3-week traditional process",
+            "Brand consistency maintained across all markets"
+        ],
+        "tags": [
+            "Voice AI",
+            "Text-to-Speech",
+            "Localization",
+            "Media"
+        ]
+    },
+    {
+        "slug": "autonomous-document-processor",
+        "title": "Autonomous Document Processor",
+        "year": "2023",
+        "category": "Document AI",
+        "summary": "Intelligent document processing for legal contract analysis",
+        "heroImage": "/images/projects/document-ai.jpg",
+        "galleryImages": [
+            "/images/projects/document-ai-1.jpg",
+            "/images/projects/document-ai-2.jpg"
+        ],
+        "challenge": "A law firm processed thousands of contracts monthly, requiring junior associates to spend countless hours on routine document review, increasing costs and turnaround times.",
+        "solution": "We built an intelligent document processing system that automatically extracts key clauses, identifies risks, compares against standard templates, and flags anomalies for human review.",
+        "outcomes": [
+            "75% reduction in document review time",
+            "98% accuracy in clause extraction",
+            "Associates freed for higher-value work",
+            "Standardized risk assessment across all contracts"
+        ],
+        "tags": [
+            "Document AI",
+            "Legal Tech",
+            "NLP",
+            "Automation"
+        ]
+    },
+    {
+        "slug": "generative-content-studio",
+        "title": "Generative Content Studio",
+        "year": "2024",
+        "category": "Generative AI",
+        "summary": "AI-powered marketing content generation platform",
+        "heroImage": "/images/projects/generative-ai.jpg",
+        "galleryImages": [
+            "/images/projects/generative-ai-1.jpg",
+            "/images/projects/generative-ai-2.jpg"
+        ],
+        "challenge": "A digital marketing agency needed to produce thousands of ad variations for A/B testing but lacked the bandwidth to create content at scale while maintaining quality.",
+        "solution": "We developed a generative AI studio that creates on-brand marketing copy, images, and video content based on campaign briefs, automatically generating variations for testing.",
+        "outcomes": [
+            "10x increase in content production",
+            "40% improvement in ad performance",
+            "Creative team focuses on strategy vs. execution",
+            "Consistent brand voice across all channels"
+        ],
+        "tags": [
+            "Generative AI",
+            "Marketing",
+            "Content Creation",
+            "Automation"
+        ]
+    }
+]

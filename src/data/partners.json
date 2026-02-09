@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Google",
+        "logo": "/images/partners/google.svg"
+    },
+    {
+        "name": "Microsoft",
+        "logo": "/images/partners/microsoft.svg"
+    },
+    {
+        "name": "Amazon Web Services",
+        "logo": "/images/partners/aws.svg"
+    },
+    {
+        "name": "NVIDIA",
+        "logo": "/images/partners/nvidia.svg"
+    },
+    {
+        "name": "IBM",
+        "logo": "/images/partners/ibm.svg"
+    },
+    {
+        "name": "Salesforce",
+        "logo": "/images/partners/salesforce.svg"
+    },
+    {
+        "name": "Oracle",
+        "logo": "/images/partners/oracle.svg"
+    },
+    {
+        "name": "SAP",
+        "logo": "/images/partners/sap.svg"
+    },
+    {
+        "name": "Adobe",
+        "logo": "/images/partners/adobe.svg"
+    },
+    {
+        "name": "Anthropic",
+        "logo": "/images/partners/anthropic.svg"
+    },
+    {
+        "name": "OpenAI",
+        "logo": "/images/partners/openai.svg"
+    },
+    {
+        "name": "Databricks",
+        "logo": "/images/partners/databricks.svg"
+    },
+    {
+        "name": "Snowflake",
+        "logo": "/images/partners/snowflake.svg"
+    },
+    {
+        "name": "Hugging Face",
+        "logo": "/images/partners/huggingface.svg"
+    },
+    {
+        "name": "Meta",
+        "logo": "/images/partners/meta.svg"
+    },
+    {
+        "name": "Stripe",
+        "logo": "/images/partners/stripe.svg"
+    }
+]

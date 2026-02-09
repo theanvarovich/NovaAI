@@ -1,0 +1,466 @@
+{
+    "nav": {
+        "about": "About",
+        "services": "Services",
+        "projects": "Projects",
+        "blog": "Blog",
+        "contact": "Contact",
+        "login": "Login",
+        "signup": "Sign Up"
+    },
+    "footer": {
+        "description": "Transforming businesses through cutting-edge AI solutions. From strategy to deployment, we deliver excellence.",
+        "links": "Quick Links",
+        "social": "Connect",
+        "legal": "Legal",
+        "privacy": "Privacy Policy",
+        "terms": "Terms of Service",
+        "copyright": "All rights reserved."
+    },
+    "home": {
+        "badge": "AI Excellence Since 2020",
+        "subtext": "Integrity • Innovation • Impact",
+        "title_start": "Transforming Business",
+        "title_end": "Through AI",
+        "description": "We partner with forward-thinking enterprises to build AI solutions that drive measurable results. From strategy to deployment, we deliver excellence.",
+        "cta_primary": "Start Your Project",
+        "cta_secondary": "View Our Work",
+        "scroll": "Scroll"
+    },
+    "sections": {
+        "benefits": {
+            "security": "Enterprise-Grade Security",
+            "scale": "Scalable Architecture",
+            "deploy": "Rapid Deployment",
+            "support": "24/7 Expert Support",
+            "custom": "Custom Solutions",
+            "roi": "Proven ROI"
+        },
+        "value_stack": {
+            "Badge": "Why Choose Us",
+            "Title": "The NovaAI Advantage",
+            "Description": "We combine cutting-edge technology with deep business understanding to deliver AI solutions that truly move the needle.",
+            "Items": {
+                "team": "World-class AI engineering team with decades of combined experience",
+                "track_record": "Proven track record with Fortune 500 companies and high-growth startups",
+                "end_to_end": "End-to-end solutions from strategy through deployment and optimization",
+                "security": "Enterprise-grade security and compliance built into every solution",
+                "support": "Dedicated support team available 24/7 to ensure your success",
+                "pricing": "Transparent pricing with no hidden fees or unexpected costs",
+                "innovation": "Continuous innovation keeping you ahead of the competition",
+                "custom": "Custom solutions tailored to your unique business challenges"
+            }
+        },
+        "video_cta": {
+            "Badge": "See NovaAI in Action",
+            "Title": "Watch How We Transform Businesses",
+            "Description": "Discover how leading enterprises are leveraging our AI solutions to drive growth, reduce costs, and outpace the competition."
+        },
+        "partners": {
+            "Title": "Trusted By Industry Leaders"
+        },
+        "blog_preview": {
+            "Badge": "Insights",
+            "Title": "Latest from Our Blog",
+            "Button": "View All Posts"
+        },
+        "projects_preview": {
+            "Badge": "Our Work",
+            "Title": "Featured Projects",
+            "Button": "View All Projects"
+        },
+        "who_we_are": {
+            "Badge": "Who We Are",
+            "Title": "Your Strategic Partner in AI Innovation",
+            "Description1": "NovaAI is a team of world-class AI engineers, data scientists, and strategists united by a single mission: helping enterprises harness the full potential of artificial intelligence.",
+            "Description2": "From Fortune 500 companies to ambitious startups, we've delivered transformative AI solutions across industries.",
+            "CTA": "Learn More About Us",
+            "Stats": {
+                "experience": "Years Experience",
+                "apiCalls": "API Calls/Day"
+            }
+        },
+        "services": {
+            "Badge": "Our Services",
+            "Title": "End-to-End AI Solutions",
+            "Description": "From concept to production, we deliver AI solutions that drive real business impact.",
+            "Items": {
+                "consulting": {
+                    "Title": "AI Consulting",
+                    "Description": "Strategic guidance to identify AI opportunities, build roadmaps, and ensure successful implementation."
+                },
+                "generation": {
+                    "Title": "Image & Video Generation",
+                    "Description": "Custom generative AI models for creating stunning visuals, product imagery, and video content at scale."
+                },
+                "voice": {
+                    "Title": "Voice & Speech Synthesis",
+                    "Description": "Natural voice cloning, text-to-speech, and speech recognition solutions for any application."
+                },
+                "ml": {
+                    "Title": "Machine Learning",
+                    "Description": "End-to-end ML solutions from data preparation to model deployment and continuous optimization."
+                },
+                "learnMore": "Learn more"
+            }
+        },
+        "how_it_works": {
+            "Badge": "How It Works",
+            "Title": "Our Proven Process",
+            "Description": "A streamlined approach that delivers results, every time.",
+            "Steps": {
+                "consultation": {
+                    "Title": "Consultation",
+                    "Description": "We begin with a deep dive into your business challenges, goals, and existing infrastructure."
+                },
+                "development": {
+                    "Title": "Development",
+                    "Description": "Our team designs and builds custom AI solutions tailored to your specific needs."
+                },
+                "optimization": {
+                    "Title": "Optimization",
+                    "Description": "We deploy, monitor, and continuously optimize your AI systems for peak performance."
+                }
+            }
+        },
+        "testimonials": {
+            "Badge": "Testimonials",
+            "Title": "What Our Clients Say"
+        }
+    },
+    "contact": {
+        "Badge": "Contact",
+        "Title": "Let's Build Something Amazing",
+        "Description": "Tell us about your project and we'll get back to you within 24 hours.",
+        "Form": {
+            "Name": "Name",
+            "Email": "Email",
+            "Company": "Company",
+            "Budget": "Budget Range",
+            "Message": "Message",
+            "Submit": "Send Message",
+            "Submitting": "Sending...",
+            "SuccessTitle": "Message Sent!",
+            "SuccessDesc": "Thank you for reaching out. We'll be in touch soon.",
+            "SendAnother": "Send another message"
+        }
+    },
+    "about_page": {
+        "hero": {
+            "badge": "About Us",
+            "title": "Building the Future of AI, Together",
+            "description": "NovaAI was founded with a simple mission: to make transformative AI accessible to every organization. We combine world-class expertise with a genuine passion for helping businesses succeed."
+        },
+        "stats": {
+            "experience": "Years Experience",
+            "projects": "Projects Delivered",
+            "team": "Team Members",
+            "api_calls": "API Calls/Day"
+        },
+        "story": {
+            "title": "Our Story",
+            "p1": "NovaAI began in 2020 when a group of AI researchers and engineers saw an opportunity to bridge the gap between cutting-edge AI research and practical business applications.",
+            "p2": "What started as a small consulting practice has grown into a full-service AI agency serving clients across industries—from Fortune 500 enterprises to innovative startups.",
+            "p3": "Today, our solutions power millions of interactions daily, helping organizations automate processes, gain insights, and create experiences that were previously impossible."
+        },
+        "values": {
+            "title": "Our Values",
+            "subtitle": "The principles that guide everything we do.",
+            "items": {
+                "innovation": {
+                    "title": "Innovation",
+                    "desc": "We push the boundaries of what AI can achieve, constantly exploring new technologies and approaches."
+                },
+                "integrity": {
+                    "title": "Integrity",
+                    "desc": "We build trust through transparency, honest communication, and ethical AI practices."
+                },
+                "impact": {
+                    "title": "Impact",
+                    "desc": "Every solution we deliver is measured by the tangible business outcomes it generates."
+                },
+                "excellence": {
+                    "title": "Excellence",
+                    "desc": "We hold ourselves to the highest standards in everything we do, from code quality to client communication."
+                }
+            }
+        },
+        "cta": {
+            "title": "Ready to Work Together?",
+            "desc": "Let's discuss how NovaAI can help transform your business with AI.",
+            "button": "Get in Touch"
+        }
+    },
+    "contact_page": {
+        "hero": {
+            "badge": "Contact",
+            "title": "Let's Build Something Amazing",
+            "description": "Tell us about your project and we'll get back to you within 24 hours."
+        },
+        "form": {
+            "success_title": "Message Sent!",
+            "success_desc": "Thank you for reaching out. We'll be in touch soon.",
+            "send_another": "Send another message",
+            "name": "Name",
+            "email": "Email",
+            "company": "Company",
+            "budget": "Budget Range",
+            "message": "Message",
+            "sending": "Sending...",
+            "send": "Send Message",
+            "errors": {
+                "required": "is required",
+                "email_invalid": "Please enter a valid email address",
+                "message_short": "Message must be at least 20 characters"
+            },
+            "placeholders": {
+                "name": "John Doe",
+                "email": "john@company.com",
+                "company": "Your Company",
+                "message": "Tell us about your project..."
+            }
+        },
+        "budget_options": {
+            "default": "Select a budget range",
+            "under_25k": "Under $25,000",
+            "25k_50k": "$25,000 - $50,000",
+            "50k_100k": "$50,000 - $100,000",
+            "100k_250k": "$100,000 - $250,000",
+            "over_250k": "Over $250,000"
+        },
+        "info": {
+            "email": "Email",
+            "office": "Office",
+            "social": "Social"
+        }
+    },
+    "services_page": {
+        "hero": {
+            "badge": "Our Services",
+            "title": "End-to-End AI Solutions",
+            "description": "From strategy to deployment, we partner with you at every stage to deliver AI solutions that drive measurable business impact.",
+            "button": "Start a Conversation"
+        },
+        "items": {
+            "strategy": {
+                "title": "AI Strategy & Roadmapping",
+                "description": "We help you identify the most impactful AI opportunities for your business and create a clear, actionable roadmap for implementation.",
+                "features": [
+                    "AI readiness assessment",
+                    "Opportunity identification",
+                    "Technology selection",
+                    "ROI projections",
+                    "Implementation roadmap"
+                ]
+            },
+            "custom_model": {
+                "title": "Custom Model Development",
+                "description": "Our team builds bespoke AI models tailored to your specific use cases, data, and business requirements.",
+                "features": [
+                    "Data preparation & cleaning",
+                    "Model architecture design",
+                    "Training & optimization",
+                    "Performance benchmarking",
+                    "Continuous improvement"
+                ]
+            },
+            "mlops": {
+                "title": "MLOps & Deployment",
+                "description": "We ensure your AI solutions run reliably in production with proper monitoring, scaling, and maintenance.",
+                "features": [
+                    "Infrastructure setup",
+                    "CI/CD pipelines",
+                    "Monitoring & alerting",
+                    "Auto-scaling",
+                    "Security & compliance"
+                ]
+            },
+            "audit": {
+                "title": "AI Audit & Optimization",
+                "description": "Comprehensive review of your existing AI systems to identify improvement opportunities and optimize performance.",
+                "features": [
+                    "Performance analysis",
+                    "Cost optimization",
+                    "Bias & fairness audit",
+                    "Security review",
+                    "Optimization recommendations"
+                ]
+            }
+        },
+        "process": {
+            "title": "Our Process",
+            "description": "A proven approach that delivers results, every time.",
+            "steps": {
+                "discovery": {
+                    "title": "Discovery",
+                    "desc": "Deep dive into your business, data, and objectives"
+                },
+                "design": {
+                    "title": "Design",
+                    "desc": "Architect the solution and define success metrics"
+                },
+                "build": {
+                    "title": "Build",
+                    "desc": "Develop, test, and iterate on the solution"
+                },
+                "deploy": {
+                    "title": "Deploy",
+                    "desc": "Launch, monitor, and continuously optimize"
+                }
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "description": "Have more questions? We're happy to help.",
+            "button": "Contact Us",
+            "items": [
+                {
+                    "q": "How long does a typical AI project take?",
+                    "a": "Project timelines vary based on complexity, but most engagements range from 8-16 weeks for initial deployment. We focus on delivering value incrementally, so you'll see results throughout the process, not just at the end."
+                },
+                {
+                    "q": "What industries do you work with?",
+                    "a": "We work across industries including financial services, healthcare, manufacturing, retail, logistics, and technology. Our team has deep expertise in applying AI to diverse business challenges."
+                },
+                {
+                    "q": "Do you work with existing AI systems or only build new ones?",
+                    "a": "Both. We're equally comfortable building new AI solutions from scratch or optimizing and extending your existing systems. Our AI Audit service is specifically designed to help you get more from current investments."
+                },
+                {
+                    "q": "How do you handle data security and privacy?",
+                    "a": "Security is foundational to everything we do. We follow industry best practices, implement role-based access controls, and can work within your existing security frameworks. We're experienced with HIPAA, SOC 2, GDPR, and other compliance requirements."
+                },
+                {
+                    "q": "What does the engagement process look like?",
+                    "a": "We start with a discovery phase to understand your needs, followed by a detailed proposal. Once aligned, we work in agile sprints with regular check-ins. You'll have direct access to our team throughout the engagement."
+                }
+            ]
+        },
+        "cta": {
+            "title": "Ready to Get Started?",
+            "description": "Let's discuss how we can help transform your business with AI.",
+            "button": "Schedule a Consultation"
+        }
+    },
+    "careers_page": {
+        "hero": {
+            "badge": "Careers",
+            "title": "Build the Future of AI With Us",
+            "description": "Join a team of exceptional people tackling the most interesting problems in artificial intelligence."
+        },
+        "why_join": {
+            "title": "Why Join NovaAI?",
+            "description": "We believe in creating an environment where you can do your best work.",
+            "items": [
+                {
+                    "title": "Competitive Salary",
+                    "desc": "Top-of-market compensation with equity"
+                },
+                {
+                    "title": "Health & Wellness",
+                    "desc": "Comprehensive medical, dental, and vision"
+                },
+                {
+                    "title": "Flexible Work",
+                    "desc": "Remote-first with optional office access"
+                },
+                {
+                    "title": "Learning Budget",
+                    "desc": "$5,000/year for conferences and courses"
+                },
+                {
+                    "title": "Unlimited PTO",
+                    "desc": "Take the time you need to recharge"
+                },
+                {
+                    "title": "Top-Tier Equipment",
+                    "desc": "MacBook Pro and all the tools you need"
+                }
+            ]
+        },
+        "openings": {
+            "title": "Open Positions",
+            "description": "Find a role that matches your skills and interests.",
+            "apply": "Apply",
+            "labels": {
+                "dept": "Department",
+                "loc": "Location",
+                "type": "Type"
+            },
+            "list": [
+                {
+                    "title": "Senior Machine Learning Engineer",
+                    "dept": "Engineering",
+                    "loc": "San Francisco, CA (Hybrid)",
+                    "type": "Full-time"
+                },
+                {
+                    "title": "AI Research Scientist",
+                    "dept": "Research",
+                    "loc": "Remote",
+                    "type": "Full-time"
+                },
+                {
+                    "title": "Technical Project Manager",
+                    "dept": "Operations",
+                    "loc": "New York, NY (Hybrid)",
+                    "type": "Full-time"
+                },
+                {
+                    "title": "Front-End Engineer",
+                    "dept": "Engineering",
+                    "loc": "Remote",
+                    "type": "Full-time"
+                },
+                {
+                    "title": "AI Solutions Architect",
+                    "dept": "Consulting",
+                    "loc": "San Francisco, CA (Hybrid)",
+                    "type": "Full-time"
+                }
+            ]
+        },
+        "cta": {
+            "title": "Don't See a Fit?",
+            "description": "We're always looking for exceptional talent. Send us your resume and we'll keep you in mind for future opportunities.",
+            "button": "Send Your Resume"
+        }
+    },
+    "not_found": {
+        "title": "Page Not Found",
+        "description": "Oops! The page you're looking for doesn't exist or has been moved.",
+        "home_button": "Go Home",
+        "contact_button": "Contact Support",
+        "helpful_links": "Here are some helpful links:",
+        "links": {
+            "about": "About Us",
+            "projects": "Projects",
+            "blog": "Blog",
+            "services": "Services"
+        }
+    },
+    "projects_page": {
+        "hero": {
+            "badge": "Our Work",
+            "title": "Projects That Drive Results",
+            "description": "Explore our portfolio of AI solutions that have transformed businesses across industries."
+        },
+        "empty": {
+            "title": "No projects yet",
+            "description": "We're working on some exciting projects. Check back soon!",
+            "back": "Go Home"
+        }
+    },
+    "blog_page": {
+        "hero": {
+            "badge": "Blog",
+            "title": "Insights & Ideas",
+            "description": "Thoughts on AI, technology, and building the future."
+        },
+        "empty": {
+            "title": "No posts yet",
+            "description": "We're working on some great content. Check back soon!",
+            "back": "Go Home"
+        }
+    }
+}

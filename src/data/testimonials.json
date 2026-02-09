@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Jennifer Martinez",
+        "company": "TechCorp Industries",
+        "role": "CTO",
+        "quote": "NovaAI transformed our approach to customer service. Their AI solutions reduced our response times by 80% while improving customer satisfaction scores. The team's expertise and professionalism exceeded our expectations.",
+        "avatar": "/images/testimonials/jennifer.jpg"
+    },
+    {
+        "name": "David Chen",
+        "company": "Global Logistics Co.",
+        "role": "VP of Operations",
+        "quote": "The predictive analytics platform NovaAI built has been a game-changer for our supply chain. We've reduced inventory costs by millions while nearly eliminating stockouts. Their team truly understands enterprise operations.",
+        "avatar": "/images/testimonials/david.jpg"
+    },
+    {
+        "name": "Sarah Thompson",
+        "company": "HealthFirst Medical",
+        "role": "Chief Medical Officer",
+        "quote": "Working with NovaAI on our diagnostic AI system was exceptional. They navigated complex healthcare regulations while delivering a solution that helps our doctors make faster, more accurate diagnoses. Patient outcomes have measurably improved.",
+        "avatar": "/images/testimonials/sarah.jpg"
+    },
+    {
+        "name": "Michael Rodriguez",
+        "company": "Creative Studios Inc.",
+        "role": "Head of Production",
+        "quote": "The generative AI tools NovaAI developed have revolutionized our content production. We're creating 10x more content with the same team, and the quality is consistently excellent. They understood our creative needs perfectly.",
+        "avatar": "/images/testimonials/michael.jpg"
+    },
+    {
+        "name": "Emily Watson",
+        "company": "Financial Partners Group",
+        "role": "Chief Risk Officer",
+        "quote": "NovaAI's document processing AI has transformed how we handle contract review. What used to take weeks now happens in hours, with higher accuracy than our manual process. The ROI was achieved in just four months.",
+        "avatar": "/images/testimonials/emily.jpg"
+    }
+]

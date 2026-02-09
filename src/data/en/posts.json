@@ -5,7 +5,7 @@
         "date": "2024-01-15",
         "author": "Dr. Sarah Chen",
         "excerpt": "Explore the transformative trends shaping enterprise AI adoption, from foundation models to edge computing and responsible AI governance.",
-        "coverImage": "/images/blog/enterprise-ai.jpg",
+        "coverImage": "https://placehold.co/800x450/0A0A0B/3B82F6/png?text=Enterprise+AI",
         "tags": [
             "Enterprise AI",
             "Trends",
@@ -19,7 +19,7 @@
         "date": "2024-01-08",
         "author": "Marcus Williams",
         "excerpt": "Practical insights on moving AI projects from proof-of-concept to production, avoiding common pitfalls along the way.",
-        "coverImage": "/images/blog/production-ai.jpg",
+        "coverImage": "https://placehold.co/800x450/0A0A0B/3B82F6/png?text=Production+AI",
         "tags": [
             "MLOps",
             "Engineering",
@@ -33,7 +33,7 @@
         "date": "2023-12-20",
         "author": "Dr. Sarah Chen",
         "excerpt": "Moving beyond abstract principles to actionable guidelines for ethical AI development and deployment.",
-        "coverImage": "/images/blog/ai-ethics.jpg",
+        "coverImage": "https://placehold.co/800x450/0A0A0B/3B82F6/png?text=AI+Ethics",
         "tags": [
             "Ethics",
             "Governance",
@@ -47,7 +47,7 @@
         "date": "2023-12-10",
         "author": "James Rodriguez",
         "excerpt": "How leading manufacturers are using computer vision for quality control, predictive maintenance, and process optimization.",
-        "coverImage": "/images/blog/cv-manufacturing.jpg",
+        "coverImage": "https://placehold.co/800x450/0A0A0B/3B82F6/png?text=Computer+Vision",
         "tags": [
             "Computer Vision",
             "Manufacturing",
@@ -61,7 +61,7 @@
         "date": "2023-11-28",
         "author": "Alex Kim",
         "excerpt": "A technical deep-dive into customizing LLMs for domain-specific applications while maintaining security and compliance.",
-        "coverImage": "/images/blog/llm-finetuning.jpg",
+        "coverImage": "https://placehold.co/800x450/0A0A0B/3B82F6/png?text=LLM+Fine-Tuning",
         "tags": [
             "LLMs",
             "NLP",
@@ -75,7 +75,7 @@
         "date": "2023-11-15",
         "author": "Michael Torres",
         "excerpt": "Practical approaches to quantifying AI value, from direct cost savings to strategic competitive advantages.",
-        "coverImage": "/images/blog/ai-roi.jpg",
+        "coverImage": "https://placehold.co/800x450/0A0A0B/3B82F6/png?text=AI+ROI",
         "tags": [
             "ROI",
             "Strategy",

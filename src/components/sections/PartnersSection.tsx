@@ -23,9 +23,8 @@ export function PartnersSection() {
                     </span>
                 </motion.div>
 
-                {/* Logo grid */}
                 <motion.div
-                    className="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-8 gap-8"
+                    className="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-8 gap-4"
                     initial={{ opacity: 0 }}
                     whileInView={{ opacity: 1 }}
                     viewport={{ once: true }}
@@ -34,15 +33,14 @@ export function PartnersSection() {
                     {partners.map((partner, index) => (
                         <motion.div
                             key={partner.name}
-                            className="flex items-center justify-center h-12 grayscale opacity-50 hover:grayscale-0 hover:opacity-100 transition-all duration-[var(--duration-normal)]"
+                            className="flex items-center justify-center p-4 rounded-lg bg-[var(--color-bg-card)] border border-[var(--color-border)] hover:border-[var(--color-primary)]/30 transition-all duration-[var(--duration-normal)] group"
                             initial={{ opacity: 0, y: 10 }}
-                            whileInView={{ opacity: 0.5, y: 0 }}
+                            whileInView={{ opacity: 1, y: 0 }}
                             viewport={{ once: true }}
                             transition={{ duration: 0.3, delay: index * 0.03 }}
-                            whileHover={{ opacity: 1 }}
+                            whileHover={{ y: -2 }}
                         >
-                            {/* Placeholder logo text */}
-                            <span className="text-sm font-medium text-[var(--color-text-secondary)] hover:text-[var(--color-text)] transition-colors">
+                            <span className="text-xs font-semibold text-[var(--color-muted)] group-hover:text-[var(--color-text)] transition-colors text-center">
                                 {partner.name}
                             </span>
                         </motion.div>

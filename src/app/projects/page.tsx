@@ -3,6 +3,7 @@
 import { Container, Section } from '@/components/ui';
 import { EmptyState, EmptyIcon } from '@/components/ui/EmptyState';
 import Link from 'next/link';
+import NextImage from 'next/image';
 import { useLanguage } from '@/lib/i18n/LanguageContext';
 import { getData } from '@/data';
 
@@ -55,15 +56,16 @@ export default function ProjectsPage() {
                                 href={`/projects/${project.slug}`}
                                 className="group relative rounded-[var(--radius-lg)] overflow-hidden bg-[var(--color-bg-card)] border border-[var(--color-border)] hover:border-[var(--color-primary)]/50 transition-all duration-[var(--duration-normal)] hover:-translate-y-1 block"
                             >
-                                {/* Image placeholder */}
-                                <div className="relative aspect-[16/10] bg-gradient-to-br from-[var(--color-bg-elevated)] to-[var(--color-bg-card)]">
-                                    <div className="absolute inset-0 flex items-center justify-center">
-                                        <div className="w-16 h-16 rounded-full bg-[var(--color-primary-glow)] flex items-center justify-center group-hover:scale-110 transition-transform duration-[var(--duration-slow)]">
-                                            <svg className="w-8 h-8 text-[var(--color-primary)]" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M9.75 17L9 20l-1 1h8l-1-1-.75-3M3 13h18M5 17h14a2 2 0 002-2V5a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
-                                            </svg>
-                                        </div>
-                                    </div>
+                                {/* Image */}
+                                <div className="relative aspect-[16/10] bg-[var(--color-bg-elevated)] overflow-hidden">
+                                    <NextImage // Use NextImage to avoid conflicts
+                                        src={project.heroImage}
+                                        alt={project.title}
+                                        fill
+                                        className="object-cover transition-transform duration-700 group-hover:scale-105"
+                                        sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                                    />
+                                    <div className="absolute inset-0 bg-gradient-to-t from-[var(--color-bg-card)] via-transparent to-transparent opacity-60" />
                                 </div>
 
                                 {/* Content */}

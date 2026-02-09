@@ -2,6 +2,7 @@
 
 import { useState } from 'react';
 import { motion } from 'framer-motion';
+import NextImage from 'next/image';
 import { Container, Section } from '@/components/ui';
 import { VideoModal } from '@/components/ui/Modal';
 import { useLanguage } from '@/lib/i18n/LanguageContext';
@@ -41,15 +42,25 @@ export function VideoCTASection() {
                                 className="group relative w-full aspect-video rounded-[var(--radius-md)] overflow-hidden bg-[var(--color-bg)] border border-[var(--color-border)] cursor-pointer"
                                 aria-label="Play video"
                             >
-                                {/* Placeholder */}
-                                <div className="absolute inset-0 flex items-center justify-center bg-gradient-to-br from-[var(--color-primary)]/10 to-purple-500/10">
+                                {/* Preview Image */}
+                                <div className="absolute inset-0">
+                                    <NextImage // Use NextImage to avoid conflicts
+                                        src="/images/hero-bg.png"
+                                        alt="Video Preview"
+                                        fill
+                                        className="object-cover opacity-70 transition-opacity group-hover:opacity-90"
+                                    />
+                                    <div className="absolute inset-0 bg-black/40" />
+                                </div>
+
+                                <div className="absolute inset-0 flex items-center justify-center">
                                     {/* Play button */}
                                     <motion.div
-                                        className="w-20 h-20 rounded-full bg-[var(--color-primary)] flex items-center justify-center shadow-lg"
+                                        className="relative z-10 w-16 h-16 md:w-20 md:h-20 rounded-full bg-[var(--color-primary)] flex items-center justify-center shadow-lg text-white"
                                         whileHover={{ scale: 1.1 }}
                                         whileTap={{ scale: 0.95 }}
                                     >
-                                        <svg className="w-8 h-8 text-white ml-1" fill="currentColor" viewBox="0 0 24 24">
+                                        <svg className="w-8 h-8 ml-1" fill="currentColor" viewBox="0 0 24 24">
                                             <path d="M8 5v14l11-7z" />
                                         </svg>
                                     </motion.div>
@@ -83,7 +94,7 @@ export function VideoCTASection() {
                 isOpen={isModalOpen}
                 onClose={() => setIsModalOpen(false)}
                 videoUrl="https://example.com/demo-video.mp4"
-                posterUrl="/images/video-poster.jpg"
+                posterUrl="/images/hero-bg.png"
             />
         </Section>
     );

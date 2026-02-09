@@ -1,6 +1,7 @@
 'use client';
 
 import { motion } from 'framer-motion';
+import NextImage from 'next/image';
 import { Container } from '@/components/ui';
 import { Button, ArrowIcon } from '@/components/ui/Button';
 import { useLanguage } from '@/lib/i18n/LanguageContext';
@@ -11,7 +12,17 @@ export function HeroSection() {
     return (
         <section className="relative min-h-screen flex items-center pt-20 overflow-hidden">
             {/* Background Elements */}
-            <div className="absolute inset-0 bg-[var(--color-bg)]" />
+            <div className="absolute inset-0 z-0">
+                <NextImage
+                    src="/images/hero-bg.png"
+                    alt="AI Agency Hero Background"
+                    fill
+                    className="object-cover opacity-60"
+                    quality={90}
+                    priority
+                />
+                <div className="absolute inset-0 bg-gradient-to-b from-[var(--color-bg)]/80 via-[var(--color-bg)]/50 to-[var(--color-bg)]" />
+            </div>
             <div className="absolute inset-0 bg-grid-white/[0.02] bg-[size:50px_50px]" />
             <div className="absolute top-0 right-0 w-[500px] h-[500px] bg-[var(--color-primary)]/20 rounded-full blur-[120px] -translate-y-1/2 translate-x-1/2" />
             <div className="absolute bottom-0 left-0 w-[500px] h-[500px] bg-purple-500/20 rounded-full blur-[120px] translate-y-1/2 -translate-x-1/2" />
@@ -64,7 +75,7 @@ export function HeroSection() {
                         <Button href="/contact" size="lg" icon={<ArrowIcon />}>
                             {t('home.cta_primary')}
                         </Button>
-                        <Button href="/projects"  size="lg"> 
+                        <Button href="/projects" size="lg">
                             {t('home.cta_secondary')}
                         </Button>
                     </motion.div>

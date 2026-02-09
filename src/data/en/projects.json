@@ -5,7 +5,7 @@
         "year": "2024",
         "category": "Computer Vision",
         "summary": "AI-powered visual recognition system for manufacturing quality control",
-        "heroImage": "/images/projects/neural-vision.jpg",
+        "heroImage": "/images/projects/neural-vision.png",
         "galleryImages": [
             "/images/projects/neural-vision-1.jpg",
             "/images/projects/neural-vision-2.jpg",
@@ -32,7 +32,7 @@
         "year": "2024",
         "category": "Natural Language Processing",
         "summary": "Enterprise-grade AI chatbot handling 50K+ daily customer interactions",
-        "heroImage": "/images/projects/chat-ai.jpg",
+        "heroImage": "/images/projects/chat-ai.png",
         "galleryImages": [
             "/images/projects/chat-ai-1.jpg",
             "/images/projects/chat-ai-2.jpg"
@@ -58,7 +58,7 @@
         "year": "2023",
         "category": "Machine Learning",
         "summary": "Real-time demand forecasting system for retail supply chain",
-        "heroImage": "/images/projects/analytics.jpg",
+        "heroImage": "/images/projects/analytics.png",
         "galleryImages": [
             "/images/projects/analytics-1.jpg",
             "/images/projects/analytics-2.jpg"
@@ -84,7 +84,7 @@
         "year": "2023",
         "category": "Audio AI",
         "summary": "Custom voice cloning and text-to-speech for media production",
-        "heroImage": "/images/projects/voice-ai.jpg",
+        "heroImage": "/images/projects/voice-ai.png",
         "galleryImages": [
             "/images/projects/voice-ai-1.jpg",
             "/images/projects/voice-ai-2.jpg"
@@ -110,7 +110,7 @@
         "year": "2023",
         "category": "Document AI",
         "summary": "Intelligent document processing for legal contract analysis",
-        "heroImage": "/images/projects/document-ai.jpg",
+        "heroImage": "/images/projects/document-ai.png",
         "galleryImages": [
             "/images/projects/document-ai-1.jpg",
             "/images/projects/document-ai-2.jpg"
@@ -136,7 +136,7 @@
         "year": "2024",
         "category": "Generative AI",
         "summary": "AI-powered marketing content generation platform",
-        "heroImage": "/images/projects/generative-ai.jpg",
+        "heroImage": "/images/projects/generative-ai.png",
         "galleryImages": [
             "/images/projects/generative-ai-1.jpg",
             "/images/projects/generative-ai-2.jpg"

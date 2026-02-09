@@ -2,6 +2,7 @@
 
 import { useParams } from 'next/navigation';
 import Link from 'next/link';
+import NextImage from 'next/image';
 import { Container, Section } from '@/components/ui';
 import { formatDate } from '@/lib/utils';
 import { useLanguage } from '@/lib/i18n/LanguageContext';
@@ -85,12 +86,15 @@ export default function BlogDetailPage() {
             <Section className="py-8">
                 <Container>
                     <div className="max-w-4xl mx-auto">
-                        <div className="aspect-[16/9] rounded-[var(--radius-lg)] bg-gradient-to-br from-[var(--color-bg-card)] to-[var(--color-bg-elevated)] border border-[var(--color-border)] overflow-hidden">
-                            <div className="w-full h-full flex items-center justify-center">
-                                <svg className="w-16 h-16 text-[var(--color-muted)]" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1} d="M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z" />
-                                </svg>
-                            </div>
+                        <div className="aspect-[16/9] rounded-[var(--radius-lg)] bg-[var(--color-bg-elevated)] border border-[var(--color-border)] overflow-hidden relative">
+                            <NextImage
+                                src={post.coverImage}
+                                alt={post.title}
+                                fill
+                                className="object-cover"
+                                priority
+                                sizes="(max-width: 1024px) 100vw, 896px"
+                            />
                         </div>
                     </div>
                 </Container>

@@ -1,6 +1,7 @@
 'use client';
 
 import { motion } from 'framer-motion';
+import NextImage from 'next/image';
 import { Container, Section } from '@/components/ui';
 import { Button, ArrowIcon } from '@/components/ui/Button';
 import { useLanguage } from '@/lib/i18n/LanguageContext';
@@ -82,9 +83,18 @@ export default function AboutPage() {
                             </div>
                         </div>
                         <div className="relative aspect-square max-w-lg mx-auto">
-                            <div className="absolute inset-8 rounded-[var(--radius-lg)] bg-gradient-to-br from-[var(--color-bg-card)] to-[var(--color-bg-elevated)] border border-[var(--color-border)]" />
-                            <div className="absolute top-0 right-0 w-32 h-32 rounded-[var(--radius-lg)] bg-[var(--color-primary)]/10 border border-[var(--color-primary)]/20" />
-                            <div className="absolute bottom-0 left-0 w-24 h-24 rounded-[var(--radius-lg)] bg-purple-500/10 border border-purple-500/20" />
+                            <div className="absolute inset-2 rounded-[var(--radius-lg)] overflow-hidden border border-[var(--color-border)] z-10">
+                                <NextImage
+                                    src="/images/about-team.png"
+                                    alt="AI Agency Team"
+                                    fill
+                                    className="object-cover"
+                                    sizes="(max-width: 768px) 100vw, 50vw"
+                                />
+                                <div className="absolute inset-0 bg-gradient-to-t from-[var(--color-bg-card)] via-transparent to-transparent opacity-40" />
+                            </div>
+                            <div className="absolute top-0 right-0 w-full h-full rounded-[var(--radius-lg)] bg-[var(--color-primary)]/10 blur-xl -z-10 transform translate-x-4 translate-y-4" />
+                            <div className="absolute bottom-0 left-0 w-full h-full rounded-[var(--radius-lg)] bg-purple-500/10 blur-xl -z-10 transform -translate-x-4 -translate-y-4" />
                         </div>
                     </div>
                 </Container>

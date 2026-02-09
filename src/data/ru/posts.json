@@ -5,7 +5,7 @@
         "date": "2024-01-15",
         "author": "Доктор Сара Чен",
         "excerpt": "Узнайте о ключевых тенденциях внедрения корпоративного ИИ: от базовых моделей до периферийных вычислений и ответственного управления ИИ.",
-        "coverImage": "/images/blog/enterprise-ai.jpg",
+        "coverImage": "https://placehold.co/800x450/0A0A0B/3B82F6/png?text=Enterprise+AI",
         "tags": [
             "Корпоративный ИИ",
             "Тренды",
@@ -19,7 +19,7 @@
         "date": "2024-01-08",
         "author": "Маркус Уильямс",
         "excerpt": "Практические советы по переводу ИИ-проектов от прототипа к продакшену, избегая распространенных ошибок.",
-        "coverImage": "/images/blog/production-ai.jpg",
+        "coverImage": "https://placehold.co/800x450/0A0A0B/3B82F6/png?text=Production+AI",
         "tags": [
             "MLOps",
             "Разработка",
@@ -33,7 +33,7 @@
         "date": "2023-12-20",
         "author": "Доктор Сара Чен",
         "excerpt": "Переход от абстрактных принципов к действенным рекомендациям по этичной разработке и внедрению ИИ.",
-        "coverImage": "/images/blog/ai-ethics.jpg",
+        "coverImage": "https://placehold.co/800x450/0A0A0B/3B82F6/png?text=AI+Ethics",
         "tags": [
             "Этика",
             "Управление",
@@ -47,7 +47,7 @@
         "date": "2023-12-10",
         "author": "Джеймс Родригес",
         "excerpt": "Как ведущие производители используют компьютерное зрение для контроля качества и оптимизации процессов.",
-        "coverImage": "/images/blog/cv-manufacturing.jpg",
+        "coverImage": "https://placehold.co/800x450/0A0A0B/3B82F6/png?text=Computer+Vision",
         "tags": [
             "Компьютерное Зрение",
             "Производство",
@@ -61,7 +61,7 @@
         "date": "2023-11-28",
         "author": "Алекс Ким",
         "excerpt": "Технический разбор адаптации LLM для специфических задач при соблюдении безопасности.",
-        "coverImage": "/images/blog/llm-finetuning.jpg",
+        "coverImage": "https://placehold.co/800x450/0A0A0B/3B82F6/png?text=LLM+Fine-Tuning",
         "tags": [
             "LLM",
             "NLP",
@@ -75,7 +75,7 @@
         "date": "2023-11-15",
         "author": "Майкл Торрес",
         "excerpt": "Практические подходы к оценке ценности ИИ, от прямой экономии до стратегических преимуществ.",
-        "coverImage": "/images/blog/ai-roi.jpg",
+        "coverImage": "https://placehold.co/800x450/0A0A0B/3B82F6/png?text=AI+ROI",
         "tags": [
             "ROI",
             "Стратегия",

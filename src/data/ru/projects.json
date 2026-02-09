@@ -5,7 +5,7 @@
         "year": "2024",
         "category": "Компьютерное Зрение",
         "summary": "ИИ-система визуального распознавания для контроля качества производства",
-        "heroImage": "/images/projects/neural-vision.jpg",
+        "heroImage": "/images/projects/neural-vision.png",
         "galleryImages": [
             "/images/projects/neural-vision-1.jpg",
             "/images/projects/neural-vision-2.jpg",
@@ -32,7 +32,7 @@
         "year": "2024",
         "category": "Обработка Естественного Языка",
         "summary": "Корпоративный ИИ-чатбот, обрабатывающий 50K+ обращений в день",
-        "heroImage": "/images/projects/chat-ai.jpg",
+        "heroImage": "/images/projects/chat-ai.png",
         "galleryImages": [
             "/images/projects/chat-ai-1.jpg",
             "/images/projects/chat-ai-2.jpg"
@@ -58,7 +58,7 @@
         "year": "2023",
         "category": "Машинное Обучение",
         "summary": "Система прогнозирования спроса в реальном времени для ритейла",
-        "heroImage": "/images/projects/analytics.jpg",
+        "heroImage": "/images/projects/analytics.png",
         "galleryImages": [
             "/images/projects/analytics-1.jpg",
             "/images/projects/analytics-2.jpg"
@@ -84,7 +84,7 @@
         "year": "2023",
         "category": "Аудио ИИ",
         "summary": "Кастомное клонирование голоса и text-to-speech для медиа",
-        "heroImage": "/images/projects/voice-ai.jpg",
+        "heroImage": "/images/projects/voice-ai.png",
         "galleryImages": [
             "/images/projects/voice-ai-1.jpg",
             "/images/projects/voice-ai-2.jpg"
@@ -110,7 +110,7 @@
         "year": "2023",
         "category": "Документарный ИИ",
         "summary": "Интеллектуальная обработка документов для юридического анализа",
-        "heroImage": "/images/projects/document-ai.jpg",
+        "heroImage": "/images/projects/document-ai.png",
         "galleryImages": [
             "/images/projects/document-ai-1.jpg",
             "/images/projects/document-ai-2.jpg"
@@ -136,7 +136,7 @@
         "year": "2024",
         "category": "Генеративный ИИ",
         "summary": "ИИ-платформа для генерации маркетингового контента",
-        "heroImage": "/images/projects/generative-ai.jpg",
+        "heroImage": "/images/projects/generative-ai.png",
         "galleryImages": [
             "/images/projects/generative-ai-1.jpg",
             "/images/projects/generative-ai-2.jpg"
